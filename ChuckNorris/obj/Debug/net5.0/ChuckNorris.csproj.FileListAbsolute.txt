@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.exe
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.deps.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.runtimeconfig.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.runtimeconfig.dev.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ref\ChuckNorris.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\bin\Debug\net5.0\ChuckNorris.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.AssemblyInfo.cs
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ref\ChuckNorris.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\ChuckNorris\obj\Debug\net5.0\ChuckNorris.genruntimeconfig.cache

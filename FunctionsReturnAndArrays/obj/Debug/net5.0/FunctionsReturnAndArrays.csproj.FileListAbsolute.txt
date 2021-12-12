@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.AssemblyInfo.cs
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.exe
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.deps.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.runtimeconfig.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.runtimeconfig.dev.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\ref\FunctionsReturnAndArrays.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\bin\Debug\net5.0\FunctionsReturnAndArrays.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\ref\FunctionsReturnAndArrays.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FunctionsReturnAndArrays\obj\Debug\net5.0\FunctionsReturnAndArrays.genruntimeconfig.cache

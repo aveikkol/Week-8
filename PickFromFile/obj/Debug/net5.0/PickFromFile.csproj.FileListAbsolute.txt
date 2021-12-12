@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.exe
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.deps.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.runtimeconfig.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.runtimeconfig.dev.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\ref\PickFromFile.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\bin\Debug\net5.0\PickFromFile.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.AssemblyInfo.cs
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\ref\PickFromFile.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\PickFromFile\obj\Debug\net5.0\PickFromFile.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.exe
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.deps.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.runtimeconfig.dev.json
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\bin\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.AssemblyInfo.cs
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\ref\FridayNightRandomReturn.dll
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.pdb
+C:\Users\angel\source\repos\FunctionsReturnAndArrays\FridayNightRandomReturn\obj\Debug\net5.0\FridayNightRandomReturn.genruntimeconfig.cache
